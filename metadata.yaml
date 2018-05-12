@@ -1,0 +1,43 @@
+_repo: The-Letters-of-Charles-Dickens--13-Vol.-2-1857-1870_25853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  editors:
+  - agent_name: Dickens, Mamie
+    alias: Dickens, Mary
+    birthdate: 1838
+    deathdate: 1896
+    gutenberg_agent_id: '31615'
+    url: http://www.gutenberg.org/2009/agents/31615
+  - agent_name: Hogarth, Georgina
+    birthdate: 1827
+    deathdate: 1917
+    gutenberg_agent_id: '31616'
+    url: http://www.gutenberg.org/2009/agents/31616
+description: ''
+gutenberg_issued: '2008-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, English -- 19th century -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Correspondence'
+title: "The Letters of Charles Dickens\r\nVol. 2, 1857-1870"
+url: http://www.gutenberg.org/ebooks/25853
